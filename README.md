@@ -7,10 +7,12 @@ This code requires the following dependencies to be installed:
 Python 3.x
 OpenCV library
 NumPy library
+
 You can install the dependencies by running the following commands:
 
 pip install opencv-python
 pip install numpy
+
 Usage
 Open a terminal and navigate to the directory where the script is located.
 
